@@ -1,2 +1,2 @@
-# Refreshing reactgit name
-01basicreact => The flow of execution
+# Refreshing react
+01basicreact => The flow of executiongit status
